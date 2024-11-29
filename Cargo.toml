@@ -1,0 +1,16 @@
+[package]
+name = "rsnum2persian"
+version = "0.1.0"
+edition = "2021"
+authors = ["fadedreams7 <fadedreams7@email.com>"]
+description = "A Rust library for converting numbers to their Persian representation."
+license = "MIT"
+repository = "https://github.com/fadedreams/rsnum2persian"
+documentation = "https://github.com/fadedreams/rsnum2persian"
+homepage = "https://github.com/fadedreams/rsnum2persian"
+keywords = ["persian-numbers", "number-conversion", "localization", "rust-library"]
+categories = ["localization", "text-processing"]
+readme = "README.md"
+
+
+[dependencies]
